@@ -1,7 +1,7 @@
 # Nike bot snkrs 抢鞋 nike抢鞋
 naikebotman
 
-因个人原因，出手一套bot源码；
+因个人时间原因，出手一套bot源码；
 
 （1万左右，不打算买，只想套技术的，收起你的小聪明。）
 
