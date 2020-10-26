@@ -3,11 +3,11 @@ naikebotman
 
 因个人时间原因，出手一套bot源码；
 
-（1万左右，不打算买，只想套技术的，收起你的小聪明。）
-
-（1万左右，不打算买，只想套技术的，收起你的小聪明。）
-
-（1万左右，不打算买，只想套技术的，收起你的小聪明。）
+![BuiFa9.png](https://s1.ax1x.com/2020/10/26/BuiFa9.png)
+![Bui9rF.png](https://s1.ax1x.com/2020/10/26/Bui9rF.png)
+![BuiiVJ.png](https://s1.ax1x.com/2020/10/26/BuiiVJ.png)
+![BuiCb4.png](https://s1.ax1x.com/2020/10/26/BuiCb4.png)
+![BuipKU.png](https://s1.ax1x.com/2020/10/26/BuipKU.png)
 
 众所周知，nikebot 难度非常高。主要体现在过akamai（俗称过盾）；
 
