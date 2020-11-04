@@ -1,6 +1,6 @@
 # Nike bot snkrs 抢鞋 nike抢鞋
 naikebotman
-因个人时间原因，出手一套bot源码；QQ:1145413335
+因个人时间原因，出手一套bot源码；QQ:80258153
 
 ![BuiFa9.png](https://s1.ax1x.com/2020/10/26/BuiFa9.png)
 ![Bui9rF.png](https://s1.ax1x.com/2020/10/26/Bui9rF.png)
