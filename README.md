@@ -2,11 +2,12 @@
 naikebotman
 因个人时间原因，出手一套bot源码；QQ:80258153
 
-![BuiFa9.png](https://s1.ax1x.com/2020/10/26/BuiFa9.png)
-![Bui9rF.png](https://s1.ax1x.com/2020/10/26/Bui9rF.png)
-![BuiiVJ.png](https://s1.ax1x.com/2020/10/26/BuiiVJ.png)
-![BuiCb4.png](https://s1.ax1x.com/2020/10/26/BuiCb4.png)
-![BuipKU.png](https://s1.ax1x.com/2020/10/26/BuipKU.png)
+![Bcmw0U.png](https://s1.ax1x.com/2020/11/04/Bcmw0U.png)
+![BcmUXV.png](https://s1.ax1x.com/2020/11/04/BcmUXV.png)
+![Bcmtlq.png](https://s1.ax1x.com/2020/11/04/Bcmtlq.png)
+![BcmN60.png](https://s1.ax1x.com/2020/11/04/BcmN60.png)
+![BcmdmT.png](https://s1.ax1x.com/2020/11/04/BcmdmT.png)
+![Bcm07F.png](https://s1.ax1x.com/2020/11/04/Bcm07F.png)
 
 众所周知，nikebot 难度非常高。主要体现在过akamai（俗称过盾）；
 
