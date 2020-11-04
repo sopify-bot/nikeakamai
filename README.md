@@ -2,12 +2,12 @@
 naikebotman
 因个人时间原因，出手一套bot源码；QQ:80258153
 
-[![Bcmw0U.png](https://s1.ax1x.com/2020/11/04/Bcmw0U.png)](https://imgchr.com/i/Bcmw0U)
-[![BcmUXV.png](https://s1.ax1x.com/2020/11/04/BcmUXV.png)](https://imgchr.com/i/BcmUXV)
-[![Bcmtlq.png](https://s1.ax1x.com/2020/11/04/Bcmtlq.png)](https://imgchr.com/i/Bcmtlq)
-[![BcmN60.png](https://s1.ax1x.com/2020/11/04/BcmN60.png)](https://imgchr.com/i/BcmN60)
-[![BcmdmT.png](https://s1.ax1x.com/2020/11/04/BcmdmT.png)](https://imgchr.com/i/BcmdmT)
-[![Bcm07F.png](https://s1.ax1x.com/2020/11/04/Bcm07F.png)](https://imgchr.com/i/Bcm07F)
+![Bcmw0U.png](https://s1.ax1x.com/2020/11/04/Bcmw0U.png)
+![BcmUXV.png](https://s1.ax1x.com/2020/11/04/BcmUXV.png)
+![Bcmtlq.png](https://s1.ax1x.com/2020/11/04/Bcmtlq.png)
+![BcmN60.png](https://s1.ax1x.com/2020/11/04/BcmN60.png)
+![BcmdmT.png](https://s1.ax1x.com/2020/11/04/BcmdmT.png)
+![Bcm07F.png](https://s1.ax1x.com/2020/11/04/Bcm07F.png)
 
 众所周知，nikebot 难度非常高。主要体现在过akamai（俗称过盾）；
 
